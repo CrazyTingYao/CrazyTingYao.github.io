@@ -59,7 +59,7 @@ a,a:visited{
 
 .card-text {
     margin: 5px;
-    text-align: center;
+    text-align: left;
 }
 
 .head{
@@ -76,4 +76,8 @@ a,a:visited{
     width: 100%;
     height: 75%;
     display: block;
+}
+.card-textm {
+    margin: 5px;
+    text-align: center;
 }
