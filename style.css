@@ -58,7 +58,7 @@ a,a:visited{
 }
 
 .card-text {
-    margin: 5px;
+    margin: 1px;
     text-align: left;
 }
 
@@ -85,4 +85,7 @@ a,a:visited{
     width: 100%;
     height: 45%;
     display: block;
+}
+h3{
+    margin-bottom: 1px;
 }
